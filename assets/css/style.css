@@ -5,12 +5,12 @@
 
 		.bodybackground {
 			background-image:url("../images/cork-wallet.png");
+			overflow: hidden;
 		}
 
 		.bodycontainer {
 			margin-top: 100px;
 			
-
 		}
 
 		.panel {
@@ -96,11 +96,16 @@
 	background-color: white;
 	padding: 15px;
 	display: inline-block;
+	margin-bottom: 40px;
 }
 
-#socialBackground {
-	background-color: white;
-	padding: 15px;
+#contact {
+	font-weight: bolder;
+	background-color: #666;
+	color: white;
+	padding: 5px;
+	font-size: 25px;
+	padding-left: 15px;
 }
 
 .form {
