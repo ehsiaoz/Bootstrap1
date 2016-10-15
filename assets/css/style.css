@@ -22,9 +22,9 @@
 			margin-bottom: 10px;
 		}
 
-		#social {
+		.social {
 			display: inline-block;
-			width: 30%;
+			width: 20%;
 			height: auto;
 		}
 
@@ -65,9 +65,6 @@
 /*The below section pertains to the portfolio.index page*/
 
 
-.panel-body img {
-	width: 100%;
-}
 
 .image {
 	margin-bottom: 15px;
